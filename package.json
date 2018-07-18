@@ -1,6 +1,6 @@
 {
-  "name": "blue-chip-react-state",
-  "version": "0.1.0",
+  "name": "@blue-chip/react-state-adapter",
+  "version": "0.2.0",
   "description": "React state adapter for BlueChip",
   "main": "dist/bundle.cjs.js",
   "module": "dist/bundle.esm.js",
